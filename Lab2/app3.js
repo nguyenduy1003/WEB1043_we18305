@@ -20,7 +20,7 @@ if (gioiTinh.toLocaleLowerCase() === "nam") {
 ) {
   document.write("<br>");
 
-  fullName_list[1] = "Vẽ";
+  fullName_list[1] = "Huy";
   var newfull = fullName_list.join(" ");
 } else {
   document.write("?");
