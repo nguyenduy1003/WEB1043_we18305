@@ -12,7 +12,7 @@ document.write("Giới tính: " + gioiTinh.toLocaleUpperCase());
 if (gioiTinh.toLocaleLowerCase() === "nam") {
   document.write("<br>");
 
-  fullName_list[1] = "Văn";
+  fullName_list[1] = "Vi";
   var newfull = fullName_list.join(" ");
 } else if (
   gioiTinh.toLocaleLowerCase() === "nữ" ||
