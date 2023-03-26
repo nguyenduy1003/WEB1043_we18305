@@ -35,12 +35,12 @@ class sinhVien {
   const listSinvien = [
     new sinhVien(
       1,
-      "NGuyên",
+      "NGuyễn",
       "Hữu",
-      "Tùng",
-      "Tung@gmail.com",
+      "Duy",
+      "Duy@gmail.com",
       "121412589",
-      "30-04=2004"
+      "10-03=2004"
     ),
     new sinhVien(
       2,
@@ -54,21 +54,20 @@ class sinhVien {
     new sinhVien(
       3,
       "Nguyễn ",
-      "LÊ",
       "HUU",
-      "Duy",
-      "Duy@gmail.com",
-      "5552141115",
+      "Tùng",
+      "Tùng@gmail.com",
+      "4152141115",
       "2004-05-05"
     ),
     new sinhVien(
       4,
-      "Phạm ",
-      "văn",
-      "Triển",
-      "Trien@gmail.com",
+      "Ngô ",
+      "Thùy",
+      "Linh",
+      "Linh@gmail.com",
       "11666211111",
-      "05-03-2004"
+      "05-09-2003"
     ),
     new sinhVien(
       5,
